@@ -1,4 +1,4 @@
-Dumitrescu Andrei - 313CC
+Romanian:
 
 Partea 1:
 La partea 1 am vectorizat putin functia csr_multiplication pentru un timp
